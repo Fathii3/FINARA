@@ -1,5 +1,9 @@
 
-link Download Drive Khusus Android:
+# FINARA
+
+**Versi APK:** 2.5.3  
+**Tanggal:** 15 Juli 2026  
+**Link Download Drive (Khusus Android):**  
 https://drive.google.com/drive/folders/1AmXfeiOZD9Eiy7Me5Bezoe2huvZegay-?usp=sharing
 
 ---
