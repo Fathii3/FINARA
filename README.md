@@ -1,11 +1,12 @@
 
 # FINARA
 
-**Versi APK:** 2.5.3  
-**Tanggal:** 15 Juli 2026  
+**Versi APK:** 2.7.0  
+**Tanggal:** 27 Juli 2026  
 **Link Download Drive (Khusus Android):**  
 https://drive.google.com/drive/folders/1AmXfeiOZD9Eiy7Me5Bezoe2huvZegay-?usp=sharing
 
+**Note:** Apk ini selalu Update untuk memperbaiki kualitasnya, saya harap ada masukan saran/kritik membangun apk ini kedepannya. 
 ---
 
 ## Panduan Penggunaan & Penjelasan Tampilan Aplikasi
