@@ -7,6 +7,18 @@
 https://drive.google.com/drive/folders/1AmXfeiOZD9Eiy7Me5Bezoe2huvZegay-?usp=sharing
 
 **Note:** Apk ini selalu Update untuk memperbaiki kualitasnya, saya harap ada masukan saran/kritik membangun apk ini kedepannya. 
+
+### 📱 Panduan Instalasi & Kesesuaian Versi Android:
+Di dalam folder Google Drive terdapat 3 pilihan paket installer:
+* **`FINARA-64bit.zip`** *(Direkomendasikan)*: Untuk mayoritas **smartphone Android modern** (arsitektur 64-bit / `arm64-v8a`, Android 7.0 dan lebih baru).
+* **`FINARA-32bit.zip`**: Untuk **HP Android tipe/versi lama** (arsitektur 32-bit / `armeabi-v7a`). Gunakan opsi ini jika perangkat tidak mendukung versi 64-bit.
+* **`FINARA-x86_64.zip`**: Khusus untuk **Emulator Android di PC/Laptop** (seperti LDPlayer, Nox, BlueStacks), Chromebook, atau perangkat berarsitektur Intel/AMD x86_64.
+
+**Langkah Instalasi:**
+1. Unduh file `.zip` yang sesuai dengan spesifikasi perangkat Anda dari link Drive di atas.
+2. Ekstrak file `.zip` tersebut hingga menghasilkan file `.apk`.
+3. Buka file `.apk` pada perangkat Android Anda dan izinkan *"Instalasi dari sumber tidak dikenal"* (*Unknown Sources*) jika diminta.
+4. Ikuti instruksi di layar hingga proses instalasi selesai.
 ---
 
 ## Panduan Penggunaan & Penjelasan Tampilan Aplikasi
