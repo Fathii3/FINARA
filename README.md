@@ -8,7 +8,7 @@ https://drive.google.com/drive/folders/1AmXfeiOZD9Eiy7Me5Bezoe2huvZegay-?usp=sha
 
 **Note:** Apk ini selalu Update untuk memperbaiki kualitasnya, saya harap ada masukan saran/kritik membangun apk ini kedepannya. 
 
-### 📱 Panduan Instalasi & Kesesuaian Versi Android:
+### Panduan Instalasi & Kesesuaian Versi Android:
 Di dalam folder Google Drive terdapat 3 pilihan paket installer:
 * **`FINARA-64bit.zip`** *(Direkomendasikan)*: Untuk mayoritas **smartphone Android modern** (arsitektur 64-bit / `arm64-v8a`, Android 7.0 dan lebih baru).
 * **`FINARA-32bit.zip`**: Untuk **HP Android tipe/versi lama** (arsitektur 32-bit / `armeabi-v7a`). Gunakan opsi ini jika perangkat tidak mendukung versi 64-bit.
